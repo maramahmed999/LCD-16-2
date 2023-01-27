@@ -12,3 +12,4 @@ void loop()
   lcd.setCursor(0, 1);
   lcd.print("Maram");
 }
+// if u want to have look on LCD connection with arduino, visit this link: https://www.tinkercad.com/things/4NAvVNWYEJs-lcd/editel?sharecode=9jNl8NDTGpzMAvr-qiBOFIKiq2cdGuOZzcgxCYhRr3Y
